@@ -1,0 +1,5 @@
+region         = "us-east-1"
+ami            = "ami-0bef6cc322bfff646"
+keypair        = "aws-key-pair"
+instance_type  = "t2.micro"
+Name           = "dev-server"
